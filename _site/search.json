@@ -6,14 +6,14 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-01-21T22:35:58-05:00"
+      "last_modified": "2022-01-21T22:47:57-05:00"
     },
     {
       "path": "index.html",
       "title": "Analysis - Henry Valdiviezo",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-01-21T22:35:59-05:00"
+      "last_modified": "2022-01-21T22:47:58-05:00"
     }
   ],
   "collections": ["posts/posts.json"]
