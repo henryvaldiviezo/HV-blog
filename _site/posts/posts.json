@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2022-01-21-histograma/",
+    "title": "Histograma",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Henry Valdiviezo",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2022-01-21",
+    "categories": [],
+    "contents": "\r\n\r\n\r\nlibrary(ggplot2)\r\n\r\nz= as.data.frame(cbind(x=runif(200),y=1:200))\r\n\r\nggplot(z,aes(x=x))+geom_histogram()\r\n\r\n\r\n\r\n\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": "posts/2022-01-21-histograma/histograma_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2022-01-21T23:28:14-05:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to Analysis - Henry Valdiviezo",
     "description": "Welcome to our new blog, Analysis - Henry Valdiviezo. We hope you enjoy \nreading what we have to say!",
@@ -13,7 +30,7 @@
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": "posts/welcome/welcome_files/figure-html5/unnamed-chunk-1-1.png",
-    "last_modified": "2022-01-21T22:38:38-05:00",
+    "last_modified": "2022-01-21T23:28:46-05:00",
     "input_file": {}
   }
 ]

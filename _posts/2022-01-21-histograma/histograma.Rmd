@@ -15,7 +15,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-```{r,echo=FALSE}
+```{r,echo=T}
 library(ggplot2)
 
 z= as.data.frame(cbind(x=runif(200),y=1:200))
