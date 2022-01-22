@@ -6,14 +6,22 @@
       "description": "Some additional details about the blog\nAnalista de datos y economista ",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
+<<<<<<< HEAD
       "last_modified": "2022-01-21T23:30:14-05:00"
+=======
+      "last_modified": "2022-01-21T22:47:57-05:00"
+>>>>>>> b82fe61ba03e5998b6de197743d1a9f6a3227602
     },
     {
       "path": "index.html",
       "title": "Analysis - Henry Valdiviezo",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
+<<<<<<< HEAD
       "last_modified": "2022-01-21T23:30:15-05:00"
+=======
+      "last_modified": "2022-01-21T22:47:58-05:00"
+>>>>>>> b82fe61ba03e5998b6de197743d1a9f6a3227602
     }
   ],
   "collections": ["posts/posts.json"]
